@@ -9,4 +9,4 @@ This repo is for all-purpose utilities for downloading images from online resear
 
 `Usage: python grab_insitu_images.py`
 
-Follow the interactive prompt to select a TXT file containing a single column of genes or transcripts of interest. 
+Follow the interactive prompt to select a TSV file containing a single column of genes or transcripts of interest. 
